@@ -1,0 +1,21 @@
+{
+  "name": "vanillaweb",
+  "version": "1.0.5",
+  "description": "Un outil pour générer rapidement un projet web en Vanilla JS.",
+  "main": "index.js",
+  "bin": {
+    "vanillaweb": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Joly",
+  "license": "ISC",
+  "keywords": [
+    "vanilla",
+    "web",
+    "project",
+    "create",
+    "new"
+  ]
+}
